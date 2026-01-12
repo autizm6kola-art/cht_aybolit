@@ -20697,7 +20697,7 @@
 
 
 --- PAGE START ---
-#TITLE: 969
+#TITLE: 2969
 
 
 --- PAGE END ---
@@ -23318,271 +23318,271 @@
 
 --- PAGE START ---
 #TITLE: 3401
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3402
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3403
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3404
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3405
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3406
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3407
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3408
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3409
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3410
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3411
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3412
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3413
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3414
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3415
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3416
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3417
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3418
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3419
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3420
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3421
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3422
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3423
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3424
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3425
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3426
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3427
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3428
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3429
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3430
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3431
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3432
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3433
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3434
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3435
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3436
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3437
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3438
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3439
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3440
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3441
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3442
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3443
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3444
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3445
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
@@ -24518,283 +24518,283 @@
 
 --- PAGE START ---
 #TITLE: 3601
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3602
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3603
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3604
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3605
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3606
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3607
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3608
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3609
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3610
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3611
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3612
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3613
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3614
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3615
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3616
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3617
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3618
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3619
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3620
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3621
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3622
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3623
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3624
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3625
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3626
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3627
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3628
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3629
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3630
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3631
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3632
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3633
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3634
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3635
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3636
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3637
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3638
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3639
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3640
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3641
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3642
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3643
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3644
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3645
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3646
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3647
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
@@ -25718,295 +25718,295 @@
 
 --- PAGE START ---
 #TITLE: 3801
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3802
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3803
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3804
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3805
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3806
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3807
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3808
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3809
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3810
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3811
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3812
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3813
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3814
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3815
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3816
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3817
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3818
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3819
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3820
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3821
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3822
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3823
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3824
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3825
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3826
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3827
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3828
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3829
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3830
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3831
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3832
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3833
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3834
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3835
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3836
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3837
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3838
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3839
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3840
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3841
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3842
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3843
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3844
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3845
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3846
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3847
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3848
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 3849
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
@@ -26918,301 +26918,301 @@
 
 --- PAGE START ---
 #TITLE: 4001
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4002
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4003
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4004
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4005
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4006
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4007
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4008
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4009
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4010
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4011
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4012
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4013
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4014
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4015
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4016
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4017
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4018
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4019
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4020
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4021
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4022
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4023
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4024
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4025
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4026
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4027
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4028
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4029
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4030
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4031
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4032
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4033
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4034
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4035
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4036
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4037
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4038
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4039
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4040
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4041
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4042
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4043
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4044
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4045
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4046
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4047
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4048
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4049
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4050
-
+«Ладно, ладно, побегу,
 
 --- PAGE END ---
 
@@ -28118,319 +28118,319 @@
 
 --- PAGE START ---
 #TITLE: 4201
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4202
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4203
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4204
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4205
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4206
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4207
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4208
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4209
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4210
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4211
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4212
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4213
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4214
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4215
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4216
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4217
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4218
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4219
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4220
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4221
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4222
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4223
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4224
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4225
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4226
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4227
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4228
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4229
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4230
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4231
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4232
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4233
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4234
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4235
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4236
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4237
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4238
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4239
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4240
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4241
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4242
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4243
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4244
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4245
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4246
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4247
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4248
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4249
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4250
-
+Вашим детям помогу.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4251
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4252
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4253
-
+На горе или в болоте?»
 
 --- PAGE END ---
 
@@ -29318,331 +29318,331 @@
 
 --- PAGE START ---
 #TITLE: 4401
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4402
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4403
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4404
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4405
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4406
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4407
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4408
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4409
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4410
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4411
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4412
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4413
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4414
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4415
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4416
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4417
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4418
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4419
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4420
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4421
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4422
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4423
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4424
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4425
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4426
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4427
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4428
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4429
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4430
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4431
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4432
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4433
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4434
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4435
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4436
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4437
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4438
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4439
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4440
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4441
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4442
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4443
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4444
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4445
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4446
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4447
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4448
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4449
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4450
-
+«Ладно, ладно, побегу,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4451
-
+Вашим детям помогу.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4452
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4453
-
+На горе или в болоте?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4454
-
+«Мы живём на Занзибаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4455
-
+В Калахари и Сахаре,
 
 --- PAGE END ---
 
@@ -30518,349 +30518,349 @@
 
 --- PAGE START ---
 #TITLE: 4601
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4602
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4603
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4604
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4605
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4606
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4607
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4608
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4609
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4610
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4611
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4612
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4613
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4614
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4615
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4616
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4617
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4618
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4619
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4620
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4621
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4622
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4623
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4624
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4625
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4626
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4627
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4628
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4629
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4630
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4631
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4632
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4633
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4634
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4635
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4636
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4637
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4638
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4639
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4640
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4641
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4642
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4643
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4644
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4645
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4646
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4647
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4648
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4649
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4650
-
+«Ладно, ладно, побегу,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4651
-
+Вашим детям помогу.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4652
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4653
-
+На горе или в болоте?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4654
-
+«Мы живём на Занзибаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4655
-
+В Калахари и Сахаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4656
-
+На горе Фернандо-По,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4657
-
+Где гуляет Гиппо-по
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4658
-
+По широкой Лимпопо».
 
 --- PAGE END ---
 
@@ -31718,361 +31718,361 @@
 
 --- PAGE START ---
 #TITLE: 4801
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4802
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4803
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4804
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4805
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4806
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4807
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4808
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4809
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4810
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4811
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4812
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4813
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4814
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4815
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4816
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4817
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4818
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4819
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4820
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4821
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4822
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4823
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4824
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4825
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4826
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4827
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4828
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4829
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4830
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4831
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4832
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4833
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4834
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4835
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4836
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4837
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4838
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4839
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4840
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4841
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4842
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4843
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4844
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4845
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4846
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4847
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4848
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4849
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4850
-
+«Ладно, ладно, побегу,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4851
-
+Вашим детям помогу.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4852
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4853
-
+На горе или в болоте?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4854
-
+«Мы живём на Занзибаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4855
-
+В Калахари и Сахаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4856
-
+На горе Фернандо-По,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4857
-
+Где гуляет Гиппо-по
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4858
-
+По широкой Лимпопо».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4859
-
+И встал Айболит, побежал Айболит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 4860
-
+По полям, но лесам, по лугам он бежит.
 
 --- PAGE END ---
 
@@ -32918,373 +32918,373 @@
 
 --- PAGE START ---
 #TITLE: 5001
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5002
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5003
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5004
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5005
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5006
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5007
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5008
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5009
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5010
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5011
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5012
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5013
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5014
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5015
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5016
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5017
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5018
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5019
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5020
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5021
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5022
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5023
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5024
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5025
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5026
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5027
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5028
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5029
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5030
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5031
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5032
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5033
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5034
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5035
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5036
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5037
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5038
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5039
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5040
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5041
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5042
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5043
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5044
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5045
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5046
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5047
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5048
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5049
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5050
-
+«Ладно, ладно, побегу,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5051
-
+Вашим детям помогу.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5052
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5053
-
+На горе или в болоте?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5054
-
+«Мы живём на Занзибаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5055
-
+В Калахари и Сахаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5056
-
+На горе Фернандо-По,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5057
-
+Где гуляет Гиппо-по
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5058
-
+По широкой Лимпопо».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5059
-
+И встал Айболит, побежал Айболит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5060
-
+По полям, но лесам, по лугам он бежит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5061
-
+И одно только слово твердит Айболит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 5062
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
