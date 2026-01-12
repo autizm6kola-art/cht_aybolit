@@ -165,8 +165,7 @@
 //     </div>
 //   );
 // }
-
-import React, { useState, useEffect, useRef, useCallback } from "react";
+import React, { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import styles from '../styles/ReadingPage.module.css';
 import SentenceDisplay from "./SentenceDisplay";
 import { saveCorrectInput, getUserInputs, saveUserInputs } from "../utils/storage";
@@ -190,7 +189,8 @@ export default function ReadingTask({ task }) {
   const mediaRecorderRef = useRef(null);
   const recordedChunks = useRef([]);
 
-  const content = task.content || [];
+  const content = useMemo(() => task.content || [], [task.content]); // Мемоизация content, чтобы избежать лишних пересозданий
+
   const totalWords = content.filter(item => item.type === "word").length;
 
   useEffect(() => {
@@ -209,7 +209,7 @@ export default function ReadingTask({ task }) {
 
     content.forEach((item, index) => {
       if (item.type !== "word") return;
-      const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n\-]/g, "");
+      const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n]/g, "");
       const foundIndex = availableTokens.findIndex(tok => tok === clean);
       if (foundIndex !== -1) {
         newMatchedIndexes.push(index);
