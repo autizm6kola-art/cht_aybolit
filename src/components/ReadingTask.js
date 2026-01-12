@@ -166,7 +166,7 @@
 //   );
 // }
 
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 import styles from '../styles/ReadingPage.module.css';
 import SentenceDisplay from "./SentenceDisplay";
 import { saveCorrectInput, getUserInputs, saveUserInputs } from "../utils/storage";
@@ -175,7 +175,7 @@ import { createSpeechRecognizer } from "../utils/bookUtils";
 function normalizeToArray(text) {
   return text
     .toLowerCase()
-    .replace(/[.,!?;:«»"()\r\n]/g, "")  // Убрали лишние экранирования
+    .replace(/[.,!?;:«»"()\r\n]/g, "")  // Убрали лишнее экранирование
     .split(/\s+/)
     .filter(Boolean);
 }
@@ -200,7 +200,32 @@ export default function ReadingTask({ task }) {
     }
   }, [task.id]);
 
-  // Добавляем handleResult в зависимости
+  // Оборачиваем handleResult в useCallback
+  const handleResult = useCallback((transcript) => {
+    const spokenTokens = normalizeToArray(transcript);
+    const availableTokens = [...spokenTokens];
+
+    const newMatchedIndexes = [];
+
+    content.forEach((item, index) => {
+      if (item.type !== "word") return;
+      const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n\-]/g, "");
+      const foundIndex = availableTokens.findIndex(tok => tok === clean);
+      if (foundIndex !== -1) {
+        newMatchedIndexes.push(index);
+        availableTokens.splice(foundIndex, 1);
+      }
+    });
+
+    setHighlightedIndexes(newMatchedIndexes);
+    saveUserInputs(task.id, [newMatchedIndexes]);
+
+    if (newMatchedIndexes.length >= totalWords / 2) {
+      saveCorrectInput(task.id, 0);
+    }
+  }, [content, task.id, totalWords]);  // Зависимости: content, task.id, totalWords
+
+  // Добавляем handleResult в зависимости useEffect
   useEffect(() => {
     if (isListening && !recognizerRef.current) {
       recognizerRef.current = createSpeechRecognizer({
@@ -221,7 +246,7 @@ export default function ReadingTask({ task }) {
         recognizerRef.current = null;
       }
     };
-  }, [isListening, handleResult]);  // Добавили handleResult в зависимости
+  }, [isListening, handleResult]);  // Добавили handleResult
 
   // 🔴 Начать запись
   const startRecording = async () => {
@@ -266,30 +291,6 @@ export default function ReadingTask({ task }) {
     }
   };
 
-  function handleResult(transcript) {
-    const spokenTokens = normalizeToArray(transcript);
-    const availableTokens = [...spokenTokens];
-
-    const newMatchedIndexes = [];
-
-    content.forEach((item, index) => {
-      if (item.type !== "word") return;
-      const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n\-]/g, "");
-      const foundIndex = availableTokens.findIndex(tok => tok === clean);
-      if (foundIndex !== -1) {
-        newMatchedIndexes.push(index);
-        availableTokens.splice(foundIndex, 1);
-      }
-    });
-
-    setHighlightedIndexes(newMatchedIndexes);
-    saveUserInputs(task.id, [newMatchedIndexes]);
-
-    if (newMatchedIndexes.length >= totalWords / 2) {
-      saveCorrectInput(task.id, 0);
-    }
-  }
-
   const handleStart = () => {
     setIsStopped(false); // ⬅️ при старте чтения фон НЕ зелёный
     setIsListening(true);
@@ -332,4 +333,5 @@ export default function ReadingTask({ task }) {
     </div>
   );
 }
+
 
