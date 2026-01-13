@@ -1617,7 +1617,7 @@
 
 
 --- PAGE START ---
-#TITLE: 134
+#TITLE: 234
 
 
 --- PAGE END ---
@@ -62938,691 +62938,695 @@
 
 --- PAGE START ---
 #TITLE: 10001
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10002
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10003
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10004
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10005
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10006
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10007
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10008
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10009
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10010
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10011
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10012
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10013
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10014
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10015
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10016
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10017
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10018
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10019
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10020
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10021
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10022
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10023
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10024
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10025
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10026
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10027
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10028
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10029
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10030
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10031
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10032
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10033
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10034
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10035
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10036
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10037
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10038
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10039
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10040
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10041
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10042
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10043
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10044
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10045
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10046
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10047
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10048
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10049
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10050
-
+«Ладно, ладно, побегу,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10051
-
+Вашим детям помогу.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10052
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10053
-
+На горе или в болоте?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10054
-
+«Мы живём на Занзибаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10055
-
+В Калахари и Сахаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10056
-
+На горе Фернандо-По,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10057
-
+Где гуляет Гиппо-по
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10058
-
+По широкой Лимпопо».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10059
-
+И встал Айболит, побежал Айболит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10060
-
+По полям, но лесам, по лугам он бежит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10061
-
+И одно только слово твердит Айболит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10062
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10063
-
+А в лицо ему ветер, и снег, и град:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10064
-
+«Эй, Айболит, воротися назад!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10065
-
+И упал Айболит и лежит на снегу:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10066
-
+«Я дальше идти не могу».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10067
-
+И сейчас же к нему из-за ёлки
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10068
-
+Выбегают мохнатые волки:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10069
-
+«Садись, Айболит, верхом,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10070
-
+Мы живо тебя довезём!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10071
-
+И вперёд поскакал Айболит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10072
-
+И одно только слово твердит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10073
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10074
-
+Но вот перед ними море —
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10075
-
+Бушует, шумит на просторе.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10076
-
+А в море высокая ходит волна.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10077
-
+Сейчас Айболита проглотит она.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10078
-
+«О, если я утону,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10079
-
+Если пойду я ко дну,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10080
-
+Что станется с ними, с больными,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10081
-
+С моими зверями лесными?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10082
-
+Но тут выплывает кит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10083
-
+«Садись на меня, Айболит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10084
-
+И, как большой пароход,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10085
-
+Тебя повезу я вперёд!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10086
-
+И сел на кита Айболит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10087
-
+И одно только слово твердит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10088
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10089
-
+И горы встают перед ним на пути,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10090
-
+И он по горам начинает ползти,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10091
-
+А горы всё выше, а горы всё круче,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10092
-
+А горы уходят под самые тучи!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10093
-
+«О, если я не дойду,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10094
-
+Если в пути пропаду,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10095
-
+Что станется с ними, с больными,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10096
-
+С моими зверями лесными?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10097
-
+И сейчас же с высокой скалы
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10098
-
+К Айболиту слетели орлы:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10099
-
+«Садись, Айболит, верхом,
 
 --- PAGE END ---
 
 --- PAGE START ---
-#TITLE: 10100
-
+#TITLE: 10000
+Мы живо тебя довезём!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10101
-
+И сел на орла Айболит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10102
-
+И одно только слово твердит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10103
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10104
+А в Африке,
+А в Африке,
 
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10105
-
+На чёрной
+Лимпопо,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10106
-
+Сидит и плачет
+В Африке
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10107
-
+Печальный Гиппопо.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10108
-
+Он в Африке, он в Африке
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10109
-
+Под пальмою сидит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10110
-
+И на море из Африки
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10111
-
+Без отдыха глядит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10112
-
+Не едет ли в кораблике
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10113
-
+Доктор Айболит?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10114
-
+И рыщут по дороге
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10115
-
+Слоны и носороги
 
 --- PAGE END ---
 
@@ -64138,703 +64142,707 @@
 
 --- PAGE START ---
 #TITLE: 10201
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10202
-
+Он под деревом сидит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10203
-
+Приходи к нему лечиться
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10204
-
+И корова, и волчица,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10205
-
+И жучок, и червячок,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10206
-
+И медведица!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10207
-
+Всех излечит, исцелит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10208
-
+Добрый доктор Айболит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10209
-
+И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10210
-
+«Ой, меня укусила оса!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10211
-
+И пришёл к Айболиту барбос:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10212
-
+«Меня курица клюнула в нос!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10213
-
+И прибежала зайчиха
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10214
-
+И закричала: «Ай, ай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10215
-
+Мой зайчик попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10216
-
+Мой зайчик, мой мальчик
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10217
-
+Попал под трамвай!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10218
-
+Он бежал по дорожке,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10219
-
+И ему перерезало ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10220
-
+И теперь он больной и хромой,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10221
-
+Маленький заинька мой!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10222
-
+И сказал Айболит: «Не беда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10223
-
+Подавай-ка его сюда!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10224
-
+Я пришью ему новые ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10225
-
+Он опять побежит по дорожке».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10226
-
+И принесли к нему зайку,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10227
-
+Такого больного, хромого,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10228
-
+И доктор пришил ему ножки,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10229
-
+И заинька прыгает снова.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10230
-
+А с ним и зайчиха-мать
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10231
-
+Тоже пошла танцевать,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10232
-
+И смеётся она и кричит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10233
-
+«Ну, спасибо тебе. Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10234
-
+Вдруг откуда-то шакал
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10235
-
+На кобыле прискакал:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10236
-
+«Вот вам телеграмма
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10237
-
+От Гиппопотама!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10238
-
+«Приезжайте, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10239
-
+В Африку скорей
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10240
-
+И спасите, доктор,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10241
-
+Наших малышей!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10242
-
+«Что такое? Неужели
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10243
-
+Ваши дети заболели?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10244
-
+«Да-да-да! У них ангина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10245
-
+Скарлатина, холерина,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10246
-
+Дифтерит, аппендицит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10247
-
+Малярия и бронхит!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10248
-
+Приходите же скорее,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10249
-
+Добрый доктор Айболит!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10250
-
+«Ладно, ладно, побегу,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10251
-
+Вашим детям помогу.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10252
-
+Только где же вы живёте?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10253
-
+На горе или в болоте?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10254
-
+«Мы живём на Занзибаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10255
-
+В Калахари и Сахаре,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10256
-
+На горе Фернандо-По,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10257
-
+Где гуляет Гиппо-по
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10258
-
+По широкой Лимпопо».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10259
-
+И встал Айболит, побежал Айболит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10260
-
+По полям, но лесам, по лугам он бежит.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10261
-
+И одно только слово твердит Айболит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10262
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10263
-
+А в лицо ему ветер, и снег, и град:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10264
-
+«Эй, Айболит, воротися назад!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10265
-
+И упал Айболит и лежит на снегу:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10266
-
+«Я дальше идти не могу».
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10267
-
+И сейчас же к нему из-за ёлки
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10268
-
+Выбегают мохнатые волки:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10269
-
+«Садись, Айболит, верхом,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10270
-
+Мы живо тебя довезём!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10271
-
+И вперёд поскакал Айболит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10272
-
+И одно только слово твердит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10273
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10274
-
+Но вот перед ними море —
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10275
-
+Бушует, шумит на просторе.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10276
-
+А в море высокая ходит волна.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10277
-
+Сейчас Айболита проглотит она.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10278
-
+«О, если я утону,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10279
-
+Если пойду я ко дну,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10280
-
+Что станется с ними, с больными,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10281
-
+С моими зверями лесными?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10282
-
+Но тут выплывает кит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10283
-
+«Садись на меня, Айболит,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10284
-
+И, как большой пароход,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10285
-
+Тебя повезу я вперёд!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10286
-
+И сел на кита Айболит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10287
-
+И одно только слово твердит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10288
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10289
-
+И горы встают перед ним на пути,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10290
-
+И он по горам начинает ползти,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10291
-
+А горы всё выше, а горы всё круче,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10292
-
+А горы уходят под самые тучи!
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10293
-
+«О, если я не дойду,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10294
-
+Если в пути пропаду,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10295
-
+Что станется с ними, с больными,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10296
-
+С моими зверями лесными?»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10297
-
+И сейчас же с высокой скалы
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10298
-
+К Айболиту слетели орлы:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10299
-
+«Садись, Айболит, верхом,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10300
-
+Мы живо тебя довезём!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10301
-
+И сел на орла Айболит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10302
-
+И одно только слово твердит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10303
-
+«Лимпопо, Лимпопо, Лимпопо!»
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10304
+А в Африке,
+А в Африке,
 
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10305
-
+На чёрной
+Лимпопо,
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10306
-
+Сидит и плачет
+В Африке
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10307
-
+Печальный Гиппопо.
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10308
-
+Он в Африке, он в Африке
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10309
-
+Под пальмою сидит
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10310
-
+И на море из Африки
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10311
-
+Без отдыха глядит:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10312
-
+Не едет ли в кораблике
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10313
-
+Доктор Айболит?
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10314
-
+И рыщут по дороге
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10315
-
+Слоны и носороги
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10316
-
+И говорят сердито:
 
 --- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 10317
-
+«Что ж нету Айболита?»
 
 --- PAGE END ---
 
@@ -122932,7 +122940,6 @@
 
 --- PAGE START ---
 #TITLE: 20000
-
 
 
 --- PAGE END ---
