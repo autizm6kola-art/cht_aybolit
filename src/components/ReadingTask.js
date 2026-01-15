@@ -1,6 +1,5 @@
 
-
-// import React, { useState, useEffect, useRef } from "react";
+// import React, { useState, useEffect, useRef, useCallback, useMemo } from "react";
 // import styles from '../styles/ReadingPage.module.css';
 // import SentenceDisplay from "./SentenceDisplay";
 // import { saveCorrectInput, getUserInputs, saveUserInputs } from "../utils/storage";
@@ -9,7 +8,7 @@
 // function normalizeToArray(text) {
 //   return text
 //     .toLowerCase()
-//     .replace(/[.,!?;:«»"()\r\n\-]/g, "")
+//     .replace(/[.,!?;:«»"()\r\n]/g, "")  // Убрали лишнее экранирование
 //     .split(/\s+/)
 //     .filter(Boolean);
 // }
@@ -24,7 +23,8 @@
 //   const mediaRecorderRef = useRef(null);
 //   const recordedChunks = useRef([]);
 
-//   const content = task.content || [];
+//   const content = useMemo(() => task.content || [], [task.content]); // Мемоизация content, чтобы избежать лишних пересозданий
+
 //   const totalWords = content.filter(item => item.type === "word").length;
 
 //   useEffect(() => {
@@ -34,6 +34,32 @@
 //     }
 //   }, [task.id]);
 
+//   // Оборачиваем handleResult в useCallback
+//   const handleResult = useCallback((transcript) => {
+//     const spokenTokens = normalizeToArray(transcript);
+//     const availableTokens = [...spokenTokens];
+
+//     const newMatchedIndexes = [];
+
+//     content.forEach((item, index) => {
+//       if (item.type !== "word") return;
+//       const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n]/g, "");
+//       const foundIndex = availableTokens.findIndex(tok => tok === clean);
+//       if (foundIndex !== -1) {
+//         newMatchedIndexes.push(index);
+//         availableTokens.splice(foundIndex, 1);
+//       }
+//     });
+
+//     setHighlightedIndexes(newMatchedIndexes);
+//     saveUserInputs(task.id, [newMatchedIndexes]);
+
+//     if (newMatchedIndexes.length >= totalWords / 2) {
+//       saveCorrectInput(task.id, 0);
+//     }
+//   }, [content, task.id, totalWords]);  // Зависимости: content, task.id, totalWords
+
+//   // Добавляем handleResult в зависимости useEffect
 //   useEffect(() => {
 //     if (isListening && !recognizerRef.current) {
 //       recognizerRef.current = createSpeechRecognizer({
@@ -54,7 +80,7 @@
 //         recognizerRef.current = null;
 //       }
 //     };
-//   }, [isListening]);
+//   }, [isListening, handleResult]);  // Добавили handleResult
 
 //   // 🔴 Начать запись
 //   const startRecording = async () => {
@@ -99,30 +125,6 @@
 //     }
 //   };
 
-//   function handleResult(transcript) {
-//     const spokenTokens = normalizeToArray(transcript);
-//     const availableTokens = [...spokenTokens];
-
-//     const newMatchedIndexes = [];
-
-//     content.forEach((item, index) => {
-//       if (item.type !== "word") return;
-//       const clean = item.word.toLowerCase().replace(/[.,!?;:«»"()\r\n\-]/g, "");
-//       const foundIndex = availableTokens.findIndex(tok => tok === clean);
-//       if (foundIndex !== -1) {
-//         newMatchedIndexes.push(index);
-//         availableTokens.splice(foundIndex, 1);
-//       }
-//     });
-
-//     setHighlightedIndexes(newMatchedIndexes);
-//     saveUserInputs(task.id, [newMatchedIndexes]);
-
-//     if (newMatchedIndexes.length >= totalWords / 2) {
-//       saveCorrectInput(task.id, 0);
-//     }
-//   }
-
 //   const handleStart = () => {
 //     setIsStopped(false); // ⬅️ при старте чтения фон НЕ зелёный
 //     setIsListening(true);
@@ -165,6 +167,8 @@
 //     </div>
 //   );
 // }
+
+
 import React, { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import styles from '../styles/ReadingPage.module.css';
 import SentenceDisplay from "./SentenceDisplay";
@@ -223,6 +227,9 @@ export default function ReadingTask({ task }) {
     if (newMatchedIndexes.length >= totalWords / 2) {
       saveCorrectInput(task.id, 0);
     }
+
+    // 👉 Событие обновления прогресса
+    window.dispatchEvent(new Event('progressUpdated'));
   }, [content, task.id, totalWords]);  // Зависимости: content, task.id, totalWords
 
   // Добавляем handleResult в зависимости useEffect
@@ -305,9 +312,7 @@ export default function ReadingTask({ task }) {
 
   return (
     <div
-      className={`${styles.container} ${
-        isStopped ? styles.completed : ""
-      }`}
+      className={`${styles.container} ${isStopped ? styles.completed : ""}`}
     >
       <div className={styles.row}>
         <SentenceDisplay content={content} highlightedIndexes={highlightedIndexes} />
@@ -333,5 +338,3 @@ export default function ReadingTask({ task }) {
     </div>
   );
 }
-
-
