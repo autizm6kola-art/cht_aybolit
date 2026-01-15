@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cht_aybolit/static/css/main.1d683442.css",
+    "main.css": "/cht_aybolit/static/css/main.bc905956.css",
     "main.js": "/cht_aybolit/static/js/main.bad7578d.js",
     "static/js/453.d37bcb50.chunk.js": "/cht_aybolit/static/js/453.d37bcb50.chunk.js",
     "index.html": "/cht_aybolit/index.html",
-    "main.1d683442.css.map": "/cht_aybolit/static/css/main.1d683442.css.map",
+    "main.bc905956.css.map": "/cht_aybolit/static/css/main.bc905956.css.map",
     "main.bad7578d.js.map": "/cht_aybolit/static/js/main.bad7578d.js.map",
     "453.d37bcb50.chunk.js.map": "/cht_aybolit/static/js/453.d37bcb50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d683442.css",
+    "static/css/main.bc905956.css",
     "static/js/main.bad7578d.js"
   ]
 }
