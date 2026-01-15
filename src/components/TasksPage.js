@@ -196,6 +196,7 @@ function TasksPage({ tasks, goBack, rangeLabel }) {
           Прочитано слов: {correctWordCount} из {totalWordCount}
         </strong>
       </p>
+      {/* <hr/> */}
 
       <div className="percent-bar-wrapper">
         <p>
