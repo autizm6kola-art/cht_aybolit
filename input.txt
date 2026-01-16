@@ -1393,7 +1393,6 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 202
 Он под деревом сидит.
@@ -1442,19 +1441,18 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 209
 И пришла к Айболиту лиса:
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 210
 «Ой, меня укусила оса!»
 
 --- PAGE END ---
+
 
 
 --- PAGE START ---
@@ -1470,13 +1468,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 213
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 214
@@ -1484,13 +1480,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 215
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 216
@@ -1498,13 +1492,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 217
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 218
@@ -1512,13 +1504,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 219
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 220
@@ -1532,13 +1522,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 222
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 223
@@ -1546,13 +1534,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 224
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 225
@@ -1560,13 +1546,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 226
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 227
@@ -1574,13 +1558,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 228
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 229
@@ -1594,13 +1576,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 231
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 232
@@ -1608,13 +1588,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 233
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 234
@@ -1622,13 +1600,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 235
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 236
@@ -1636,13 +1612,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 237
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 238
@@ -1650,13 +1624,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 239
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 240
@@ -1664,13 +1636,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 241
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 242
@@ -1678,13 +1648,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 243
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 244
@@ -1692,19 +1660,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 245
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 246
 
---- PAGE END ---
 
+--- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 247
@@ -1712,13 +1678,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 248
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 249
@@ -1726,13 +1690,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 250
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 251
@@ -1740,14 +1702,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 252
 
 
 --- PAGE END ---
-
-
 
 --- PAGE START ---
 #TITLE: 253
@@ -1755,14 +1714,11 @@
 
 --- PAGE END ---
 
-
-
 --- PAGE START ---
 #TITLE: 254
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 255
@@ -1770,13 +1726,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 256
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 257
@@ -1784,13 +1738,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 258
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 259
@@ -1798,13 +1750,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 260
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 261
@@ -1812,13 +1762,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 262
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 263
@@ -1826,13 +1774,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 264
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 265
@@ -1840,13 +1786,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 266
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 267
@@ -1854,20 +1798,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 268
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 269
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 270
@@ -1881,13 +1822,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 272
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 273
@@ -1895,13 +1834,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 274
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 275
@@ -1909,13 +1846,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 276
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 277
@@ -1923,13 +1858,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 278
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 279
@@ -1943,13 +1876,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 281
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 282
@@ -1957,13 +1888,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 283
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 284
@@ -1971,13 +1900,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 285
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 286
@@ -1985,13 +1912,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 287
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 288
@@ -1999,13 +1924,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 289
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 290
@@ -2013,13 +1936,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 291
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 292
@@ -2027,13 +1948,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 293
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 294
@@ -2041,13 +1960,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 295
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 296
@@ -2055,13 +1972,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 297
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 298
@@ -2069,13 +1984,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 299
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 300
@@ -2095,13 +2008,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 303
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 304
@@ -2109,13 +2020,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 305
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 306
@@ -2123,13 +2032,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 307
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 308
@@ -2149,14 +2056,11 @@
 
 --- PAGE END ---
 
-
-
 --- PAGE START ---
 #TITLE: 311
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 312
@@ -2164,13 +2068,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 313
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 314
@@ -2178,15 +2080,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 315
 
 
 --- PAGE END ---
-
-
-
 
 --- PAGE START ---
 #TITLE: 316
@@ -2194,20 +2092,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 317
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 318
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 319
@@ -2221,13 +2116,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 321
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 322
@@ -2235,13 +2128,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 323
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 324
@@ -2249,13 +2140,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 325
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 326
@@ -2263,13 +2152,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 327
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 328
@@ -2277,13 +2164,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 329
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 330
@@ -2291,13 +2176,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 331
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 332
@@ -2305,13 +2188,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 333
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 334
@@ -2319,13 +2200,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 335
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 336
@@ -2333,13 +2212,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 337
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 338
@@ -2347,13 +2224,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 339
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 340
@@ -2361,13 +2236,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 341
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 342
@@ -2375,13 +2248,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 343
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 344
@@ -2389,19 +2260,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 345
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 346
 
---- PAGE END ---
 
+--- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 347
@@ -2409,13 +2278,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 348
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 349
@@ -2423,13 +2290,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 350
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 351
@@ -2437,14 +2302,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 352
 
 
 --- PAGE END ---
-
-
 
 --- PAGE START ---
 #TITLE: 353
@@ -2452,14 +2314,11 @@
 
 --- PAGE END ---
 
-
-
 --- PAGE START ---
 #TITLE: 354
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 355
@@ -2467,13 +2326,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 356
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 357
@@ -2481,13 +2338,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 358
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 359
@@ -2495,13 +2350,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 360
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 361
@@ -2509,13 +2362,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 362
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 363
@@ -2523,13 +2374,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 364
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 365
@@ -2537,13 +2386,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 366
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 367
@@ -2551,20 +2398,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 368
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 369
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 370
@@ -2578,13 +2422,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 372
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 373
@@ -2592,13 +2434,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 374
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 375
@@ -2606,13 +2446,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 376
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 377
@@ -2620,13 +2458,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 378
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 379
@@ -2640,13 +2476,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 381
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 382
@@ -2654,13 +2488,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 383
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 384
@@ -2668,13 +2500,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 385
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 386
@@ -2682,13 +2512,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 387
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 388
@@ -2696,13 +2524,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 389
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 390
@@ -2710,13 +2536,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 391
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 392
@@ -2724,13 +2548,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 393
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 394
@@ -2738,13 +2560,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 395
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 396
@@ -2752,13 +2572,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 397
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 398
@@ -2766,19 +2584,18 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 399
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 400
 
 
 --- PAGE END ---
+
 --- PAGE START ---
 #TITLE: 401
 Добрый доктор Айболит!
@@ -13955,6 +13772,7 @@
 
 --- PAGE END ---
 
+
 --- PAGE START ---
 #TITLE: 2002
 Он под деревом сидит.
@@ -14003,11 +13821,13 @@
 
 --- PAGE END ---
 
+
 --- PAGE START ---
 #TITLE: 2009
 И пришла к Айболиту лиса:
 
 --- PAGE END ---
+
 
 --- PAGE START ---
 #TITLE: 2010
@@ -14050,6 +13870,7 @@
 
 --- PAGE END ---
 
+
 --- PAGE START ---
 #TITLE: 2016
 Мой зайчик, мой мальчик
@@ -14070,10 +13891,12 @@
 
 --- PAGE END ---
 
+
 --- PAGE START ---
 #TITLE: 2019
 И ему перерезало ножки,
 
+--- PAGE END ---
 
 
 --- PAGE START ---
@@ -14081,7 +13904,6 @@
 И теперь он больной и хромой,
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2021
@@ -14145,7 +13967,6 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2030
 А с ним и зайчиха-мать
@@ -14159,13 +13980,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2032
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2033
@@ -14173,13 +13992,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2034
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2035
@@ -14187,13 +14004,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2036
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2037
@@ -14201,13 +14016,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2038
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2039
@@ -14215,13 +14028,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2040
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2041
@@ -14229,13 +14040,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2042
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2043
@@ -14243,13 +14052,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2044
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2045
@@ -14257,12 +14064,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2046
 
---- PAGE END ---
 
+--- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 2047
@@ -14270,13 +14076,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2048
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2049
@@ -14284,13 +14088,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2050
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2051
@@ -14298,14 +14100,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2052
 
 
 --- PAGE END ---
-
-
 
 --- PAGE START ---
 #TITLE: 2053
@@ -14313,14 +14112,11 @@
 
 --- PAGE END ---
 
-
-
 --- PAGE START ---
 #TITLE: 2054
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2055
@@ -14328,13 +14124,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2056
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2057
@@ -14342,13 +14136,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2058
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2059
@@ -14356,13 +14148,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2060
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2061
@@ -14370,13 +14160,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2062
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2063
@@ -14384,13 +14172,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2064
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2065
@@ -14398,13 +14184,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2066
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2067
@@ -14412,20 +14196,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2068
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2069
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2070
@@ -14439,13 +14220,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2072
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2073
@@ -14453,13 +14232,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2074
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2075
@@ -14467,13 +14244,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2076
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2077
@@ -14481,13 +14256,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2078
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2079
@@ -14501,13 +14274,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2081
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2082
@@ -14515,13 +14286,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2083
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2084
@@ -14529,13 +14298,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2085
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2086
@@ -14543,13 +14310,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2087
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2088
@@ -14557,13 +14322,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2089
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2090
@@ -14571,13 +14334,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2091
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2092
@@ -14585,13 +14346,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2093
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2094
@@ -14599,13 +14358,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2095
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2096
@@ -14613,20 +14370,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2097
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2098
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2099
@@ -14640,8 +14394,6 @@
 
 --- PAGE END ---
 
-
-
 --- PAGE START ---
 #TITLE: 2101
 
@@ -14654,13 +14406,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2103
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2104
@@ -14668,13 +14418,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
-#TITLE: 205
+#TITLE: 2105
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2106
@@ -14682,13 +14430,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2107
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2108
@@ -14708,14 +14454,11 @@
 
 --- PAGE END ---
 
-
-
 --- PAGE START ---
 #TITLE: 2111
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2112
@@ -14723,13 +14466,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2113
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2114
@@ -14737,14 +14478,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2115
 
 
 --- PAGE END ---
-
-
 
 --- PAGE START ---
 #TITLE: 2116
@@ -14752,20 +14490,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2117
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2118
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2119
@@ -14779,13 +14514,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2121
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2122
@@ -14793,13 +14526,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2123
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2124
@@ -14807,13 +14538,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2125
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2126
@@ -14821,13 +14550,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2127
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2128
@@ -14835,13 +14562,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2129
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2130
@@ -14849,13 +14574,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2131
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2132
@@ -14863,13 +14586,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2133
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2134
@@ -14877,13 +14598,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2135
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2136
@@ -14891,13 +14610,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2137
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2138
@@ -14905,13 +14622,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2139
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2140
@@ -14919,13 +14634,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2141
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2142
@@ -14933,13 +14646,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2143
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2144
@@ -14947,19 +14658,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2145
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2146
 
---- PAGE END ---
 
+--- PAGE END ---
 
 --- PAGE START ---
 #TITLE: 2147
@@ -14967,13 +14676,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2148
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2149
@@ -14981,13 +14688,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2150
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2151
@@ -14995,14 +14700,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
-#TITLE: 152
+#TITLE: 2152
 
 
 --- PAGE END ---
-
-
 
 --- PAGE START ---
 #TITLE: 2153
@@ -15010,14 +14712,11 @@
 
 --- PAGE END ---
 
-
-
 --- PAGE START ---
 #TITLE: 2154
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2155
@@ -15025,13 +14724,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2156
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2157
@@ -15039,13 +14736,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2158
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2159
@@ -15053,13 +14748,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2160
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2161
@@ -15067,13 +14760,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2162
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2163
@@ -15081,13 +14772,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2164
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2165
@@ -15095,13 +14784,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2166
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2167
@@ -15109,20 +14796,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2168
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2169
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2170
@@ -15136,13 +14820,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2172
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2173
@@ -15150,13 +14832,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2174
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2175
@@ -15164,13 +14844,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2176
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2177
@@ -15178,13 +14856,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2178
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2179
@@ -15198,13 +14874,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2181
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2182
@@ -15212,13 +14886,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2183
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2184
@@ -15226,13 +14898,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2185
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2186
@@ -15240,13 +14910,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2187
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2188
@@ -15254,13 +14922,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2189
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2190
@@ -15268,13 +14934,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2191
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2192
@@ -15282,13 +14946,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2193
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2194
@@ -15296,13 +14958,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2195
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2196
@@ -15310,13 +14970,11 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2197
 
 
 --- PAGE END ---
-
 
 --- PAGE START ---
 #TITLE: 2198
@@ -15324,20 +14982,17 @@
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2199
 
 
 --- PAGE END ---
 
-
 --- PAGE START ---
 #TITLE: 2200
 
 
 --- PAGE END ---
-
 --- PAGE START ---
 #TITLE: 2201
 Добрый доктор Айболит!
@@ -112352,6 +112007,10838 @@
 --- PAGE START ---
 #TITLE: 18200
 
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18201
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18202
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18203
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18204
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18205
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18206
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18207
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18208
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18209
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18210
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18211
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18212
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18213
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18214
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18215
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18216
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18217
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18218
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18219
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18220
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18221
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18222
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18223
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18224
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18225
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18226
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18227
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18228
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18229
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18230
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18231
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18232
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18233
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18234
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18235
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18236
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18237
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18238
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18239
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18240
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18241
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18242
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18243
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18244
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18245
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18246
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18247
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18248
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18249
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18250
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18251
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18252
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18253
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18254
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18255
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18256
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18257
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18258
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18259
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18260
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18261
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18262
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18263
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18264
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18265
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18266
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18267
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18268
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18269
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18270
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18271
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18272
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18273
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18274
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18275
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18276
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18277
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18278
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18279
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18280
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18281
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18282
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18283
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18284
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18285
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18286
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18287
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18288
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18289
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18290
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18291
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18292
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18293
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18294
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18295
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18296
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18297
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18298
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18299
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18300
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18301
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18302
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18303
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18304
+А в Африке,
+А в Африке,
+
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18305
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18306
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18307
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18308
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18309
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18310
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18311
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18312
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18313
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18314
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18315
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18316
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18317
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18318
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18319
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18320
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18321
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18322
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18323
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18324
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18325
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18326
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18327
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18328
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18329
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18330
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18331
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18332
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18333
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18334
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18335
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18336
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18337
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18338
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18339
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18340
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18341
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18342
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18343
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18344
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18345
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18346
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18347
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18348
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18349
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18350
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18351
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18352
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18353
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18354
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18355
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18356
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18357
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18358
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18359
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18360
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18361
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18362
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18363
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18364
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18365
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18366
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18367
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18368
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18369
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18370
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18371
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18372
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18373
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18374
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18375
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18376
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18377
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18378
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18379
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18380
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18381
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18382
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18383
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18384
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18385
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18386
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18387
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18388
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18389
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18390
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18391
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18392
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18393
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18394
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18395
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18396
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18397
+
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18398
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18399
+
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18400
+
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18401
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18402
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18403
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18404
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18405
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18406
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18407
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18408
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18409
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18410
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18411
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18412
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18413
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18414
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18415
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18416
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18417
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18418
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18419
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18420
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18421
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18422
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18423
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18424
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18425
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18426
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18427
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18428
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18429
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18430
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18431
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18432
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18433
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18434
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18435
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18436
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18437
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18438
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18439
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18440
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18441
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18442
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18443
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18444
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18445
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18446
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18447
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18448
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18449
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18450
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18451
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18452
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18453
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18454
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18455
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18456
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18457
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18458
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18459
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18460
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18461
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18462
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18463
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18464
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18465
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18466
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18467
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18468
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18469
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18470
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18471
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18472
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18473
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18474
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18475
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18476
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18477
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18478
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18479
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18480
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18481
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18482
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18483
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18484
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18485
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18486
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18487
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18488
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18489
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18490
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18491
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18492
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18493
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18494
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18495
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18496
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18497
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18498
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18499
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18500
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18501
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18502
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18503
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18504
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18505
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18506
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18507
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18508
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18509
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18510
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18511
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18512
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18513
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18514
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18515
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18516
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18517
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18518
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18519
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18520
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18521
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18522
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18523
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18524
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18525
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18526
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18527
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18528
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18529
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18530
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18531
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18532
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18533
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18534
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18535
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18536
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18537
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18538
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18539
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18540
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18541
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18542
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18543
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18544
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18545
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18546
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18547
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18548
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18549
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18550
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18551
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18552
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18553
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18554
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18555
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18556
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18557
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18558
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18559
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18560
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18561
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18562
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18563
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18564
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18565
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18566
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18567
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18568
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18569
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18570
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18571
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18572
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18573
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18574
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18575
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18576
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18577
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18578
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18579
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18580
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18581
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18582
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18583
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18584
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18585
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18586
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18587
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18588
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18589
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18590
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18591
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18592
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18593
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18594
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18595
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18596
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18597
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18598
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18599
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18600
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18601
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18602
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18603
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18604
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18605
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18606
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18607
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18608
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18609
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18610
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18611
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18612
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18613
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18614
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18615
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18616
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18617
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18618
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18619
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18620
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18621
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18622
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18623
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18624
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18625
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18626
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18627
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18628
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18629
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18630
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18631
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18632
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18633
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18634
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18635
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18636
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18637
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18638
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18639
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18640
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18641
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18642
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18643
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18644
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18645
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18646
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18647
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18648
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18649
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18650
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18651
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18652
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18653
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18654
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18655
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18656
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18657
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18658
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18659
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18660
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18661
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18662
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18663
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18664
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18665
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18666
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18667
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18668
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18669
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18670
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18671
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18672
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18673
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18674
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18675
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18676
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18677
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18678
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18679
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18680
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18681
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18682
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18683
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18684
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18685
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18686
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18687
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18688
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18689
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18690
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18691
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18692
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18693
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18694
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18695
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18696
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18697
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18698
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18699
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18700
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18701
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18702
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18703
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18704
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18705
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18706
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18707
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18708
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18709
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18710
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18711
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18712
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18713
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18714
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18715
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18716
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18717
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18718
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18719
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18720
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18721
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18722
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18723
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18724
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18725
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18726
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18727
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18728
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18729
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18730
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18731
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18732
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18733
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18734
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18735
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18736
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18737
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18738
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18739
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18740
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18741
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18742
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18743
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18744
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18745
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18746
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18747
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18748
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18749
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18750
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18751
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18752
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18753
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18754
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18755
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18756
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18757
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18758
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18759
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18760
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18761
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18762
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18763
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18764
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18765
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18766
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18767
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18768
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18769
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18770
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18771
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18772
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18773
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18774
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18775
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18776
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18777
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18778
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18779
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18780
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18781
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18782
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18783
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18784
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18785
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18786
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18787
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18788
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18789
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18790
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18791
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18792
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18793
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18794
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18795
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18796
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18797
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18798
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18799
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18800
+
+--- PAGE END ---
+
+
+--- PAGE START ---
+#TITLE: 18801
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18802
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18803
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18804
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18805
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18806
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18807
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18808
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18809
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18810
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18811
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18812
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18813
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18814
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18815
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18816
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18817
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18818
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18819
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18820
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18821
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18822
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18823
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18824
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18825
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18826
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18827
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18828
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18829
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18830
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18831
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18832
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18833
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18834
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18835
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18836
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18837
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18838
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18839
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18840
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18841
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18842
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18843
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18844
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18845
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18846
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18847
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18848
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18849
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18850
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18851
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18852
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18853
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18854
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18855
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18856
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18857
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18858
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18859
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18860
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18861
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18862
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18863
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18864
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18865
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18866
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18867
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18868
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18869
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18870
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18871
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18872
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18873
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18874
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18875
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18876
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18877
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18878
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18879
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18880
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18881
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18882
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18883
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18884
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18885
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18886
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18887
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18888
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18889
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18890
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18891
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18892
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18893
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18894
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18895
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18896
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18897
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18898
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18899
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18900
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18901
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18902
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18903
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18904
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18905
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18906
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18907
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18908
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18909
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18910
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18911
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18912
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18913
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18914
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18915
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18916
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18917
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18918
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18919
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18920
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18921
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18922
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18923
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18924
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18925
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18926
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18927
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18928
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18929
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18930
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18931
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18932
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18933
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18934
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18935
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18936
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18937
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18938
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18939
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18940
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18941
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18942
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18943
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18944
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18945
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18946
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18947
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18948
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18949
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18950
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18951
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18952
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18953
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18954
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18955
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18956
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18957
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18958
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18959
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18960
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18961
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18962
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18963
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18964
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18965
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18966
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18967
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18968
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18969
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18970
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18971
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18972
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18973
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18974
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18975
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18976
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18977
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18978
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18979
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18980
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18981
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18982
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18983
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18984
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18985
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18986
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18987
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18988
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18989
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18990
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18991
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18992
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18993
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18994
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18995
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18996
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18997
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18998
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 18999
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19000
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19001
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19002
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19003
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19004
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19005
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19006
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19007
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19008
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19009
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19010
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19011
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19012
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19013
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19014
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19015
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19016
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19017
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19018
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19019
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19020
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19021
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19022
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19023
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19024
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19025
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19026
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19027
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19028
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19029
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19030
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19031
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19032
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19033
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19034
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19035
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19036
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19037
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19038
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19039
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19040
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19041
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19042
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19043
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19044
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19045
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19046
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19047
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19048
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19049
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19050
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19051
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19052
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19053
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19054
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19055
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19056
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19057
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19058
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19059
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19060
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19061
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19062
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19063
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19064
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19065
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19066
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19067
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19068
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19069
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19070
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19071
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19072
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19073
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19074
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19075
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19076
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19077
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19078
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19079
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19080
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19081
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19082
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19083
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19084
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19085
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19086
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19087
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19088
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19089
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19090
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19091
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19092
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19093
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19094
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19095
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19096
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19097
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19098
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19099
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19100
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19101
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19102
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19103
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19104
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19105
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19106
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19107
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19108
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19109
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19110
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19111
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19112
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19113
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19114
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19115
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19116
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19117
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19118
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19119
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19120
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19121
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19122
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19123
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19124
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19125
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19126
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19127
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19128
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19129
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19130
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19131
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19132
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19133
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19134
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19135
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19136
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19137
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19138
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19139
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19140
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19141
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19142
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19143
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19144
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19145
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19146
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19147
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19148
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19149
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19150
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19151
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19152
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19153
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19154
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19155
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19156
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19157
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19158
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19159
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19160
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19161
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19162
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19163
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19164
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19165
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19166
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19167
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19168
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19169
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19170
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19171
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19172
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19173
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19174
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19175
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19176
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19177
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19178
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19179
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19180
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19181
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19182
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19183
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19184
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19185
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19186
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19187
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19188
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19189
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19190
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19191
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19192
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19193
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19194
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19195
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19196
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19197
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19198
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19199
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19200
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19201
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19202
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19203
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19204
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19205
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19206
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19207
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19208
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19209
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19210
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19211
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19212
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19213
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19214
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19215
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19216
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19217
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19218
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19219
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19220
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19221
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19222
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19223
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19224
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19225
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19226
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19227
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19228
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19229
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19230
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19231
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19232
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19233
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19234
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19235
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19236
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19237
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19238
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19239
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19240
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19241
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19242
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19243
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19244
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19245
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19246
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19247
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19248
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19249
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19250
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19251
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19252
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19253
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19254
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19255
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19256
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19257
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19258
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19259
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19260
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19261
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19262
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19263
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19264
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19265
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19266
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19267
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19268
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19269
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19270
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19271
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19272
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19273
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19274
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19275
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19276
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19277
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19278
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19279
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19280
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19281
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19282
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19283
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19284
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19285
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19286
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19287
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19288
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19289
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19290
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19291
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19292
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19293
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19294
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19295
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19296
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19297
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19298
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19299
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19300
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19301
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19302
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19303
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19304
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19305
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19306
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19307
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19308
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19309
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19310
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19311
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19312
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19313
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19314
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19315
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19316
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19317
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19318
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19319
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19320
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19321
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19322
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19323
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19324
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19325
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19326
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19327
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19328
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19329
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19330
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19331
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19332
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19333
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19334
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19335
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19336
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19337
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19338
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19339
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19340
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19341
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19342
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19343
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19344
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19345
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19346
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19347
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19348
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19349
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19350
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19351
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19352
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19353
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19354
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19355
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19356
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19357
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19358
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19359
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19360
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19361
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19362
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19363
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19364
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19365
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19366
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19367
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19368
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19369
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19370
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19371
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19372
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19373
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19374
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19375
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19376
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19377
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19378
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19379
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19380
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19381
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19382
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19383
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19384
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19385
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19386
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19387
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19388
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19389
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19390
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19391
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19392
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19393
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19394
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19395
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19396
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19397
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19398
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19399
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19400
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19401
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19402
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19403
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19404
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19405
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19406
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19407
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19408
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19409
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19410
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19411
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19412
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19413
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19414
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19415
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19416
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19417
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19418
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19419
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19420
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19421
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19422
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19423
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19424
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19425
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19426
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19427
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19428
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19429
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19430
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19431
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19432
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19433
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19434
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19435
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19436
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19437
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19438
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19439
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19440
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19441
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19442
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19443
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19444
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19445
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19446
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19447
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19448
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19449
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19450
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19451
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19452
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19453
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19454
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19455
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19456
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19457
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19458
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19459
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19460
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19461
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19462
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19463
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19464
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19465
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19466
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19467
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19468
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19469
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19470
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19471
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19472
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19473
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19474
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19475
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19476
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19477
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19478
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19479
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19480
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19481
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19482
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19483
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19484
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19485
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19486
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19487
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19488
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19489
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19490
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19491
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19492
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19493
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19494
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19495
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19496
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19497
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19498
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19499
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19500
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19501
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19502
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19503
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19504
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19505
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19506
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19507
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19508
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19509
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19510
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19511
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19512
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19513
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19514
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19515
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19516
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19517
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19518
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19519
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19520
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19521
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19522
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19523
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19524
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19525
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19526
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19527
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19528
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19529
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19530
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19531
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19532
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19533
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19534
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19535
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19536
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19537
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19538
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19539
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19540
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19541
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19542
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19543
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19544
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19545
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19546
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19547
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19548
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19549
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19550
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19551
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19552
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19553
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19554
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19555
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19556
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19557
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19558
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19559
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19560
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19561
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19562
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19563
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19564
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19565
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19566
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19567
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19568
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19569
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19570
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19571
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19572
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19573
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19574
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19575
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19576
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19577
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19578
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19579
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19580
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19581
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19582
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19583
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19584
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19585
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19586
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19587
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19588
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19589
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19590
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19591
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19592
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19593
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19594
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19595
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19596
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19597
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19598
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19599
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19600
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19601
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19602
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19603
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19604
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19605
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19606
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19607
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19608
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19609
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19610
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19611
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19612
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19613
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19614
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19615
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19616
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19617
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19618
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19619
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19620
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19621
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19622
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19623
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19624
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19625
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19626
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19627
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19628
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19629
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19630
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19631
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19632
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19633
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19634
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19635
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19636
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19637
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19638
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19639
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19640
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19641
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19642
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19643
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19644
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19645
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19646
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19647
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19648
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19649
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19650
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19651
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19652
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19653
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19654
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19655
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19656
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19657
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19658
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19659
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19660
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19661
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19662
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19663
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19664
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19665
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19666
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19667
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19668
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19669
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19670
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19671
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19672
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19673
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19674
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19675
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19676
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19677
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19678
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19679
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19680
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19681
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19682
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19683
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19684
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19685
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19686
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19687
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19688
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19689
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19690
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19691
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19692
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19693
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19694
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19695
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19696
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19697
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19698
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19699
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19700
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19701
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19702
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19703
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19704
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19705
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19706
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19707
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19708
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19709
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19710
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19711
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19712
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19713
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19714
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19715
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19716
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19717
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19718
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19719
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19720
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19721
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19722
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19723
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19724
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19725
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19726
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19727
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19728
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19729
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19730
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19731
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19732
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19733
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19734
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19735
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19736
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19737
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19738
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19739
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19740
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19741
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19742
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19743
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19744
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19745
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19746
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19747
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19748
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19749
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19750
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19751
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19752
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19753
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19754
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19755
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19756
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19757
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19758
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19759
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19760
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19761
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19762
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19763
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19764
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19765
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19766
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19767
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19768
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19769
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19770
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19771
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19772
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19773
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19774
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19775
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19776
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19777
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19778
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19779
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19780
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19781
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19782
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19783
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19784
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19785
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19786
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19787
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19788
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19789
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19790
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19791
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19792
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19793
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19794
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19795
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19796
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19797
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19798
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19799
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19800
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19801
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19802
+Он под деревом сидит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19803
+Приходи к нему лечиться
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19804
+И корова, и волчица,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19805
+И жучок, и червячок,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19806
+И медведица!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19807
+Всех излечит, исцелит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19808
+Добрый доктор Айболит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19809
+И пришла к Айболиту лиса:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19810
+«Ой, меня укусила оса!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19811
+И пришёл к Айболиту барбос:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19812
+«Меня курица клюнула в нос!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19813
+И прибежала зайчиха
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19814
+И закричала: «Ай, ай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19815
+Мой зайчик попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19816
+Мой зайчик, мой мальчик
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19817
+Попал под трамвай!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19818
+Он бежал по дорожке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19819
+И ему перерезало ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19820
+И теперь он больной и хромой,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19821
+Маленький заинька мой!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19822
+И сказал Айболит: «Не беда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19823
+Подавай-ка его сюда!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19824
+Я пришью ему новые ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19825
+Он опять побежит по дорожке».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19826
+И принесли к нему зайку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19827
+Такого больного, хромого,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19828
+И доктор пришил ему ножки,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19829
+И заинька прыгает снова.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19830
+А с ним и зайчиха-мать
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19831
+Тоже пошла танцевать,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19832
+И смеётся она и кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19833
+«Ну, спасибо тебе. Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19834
+Вдруг откуда-то шакал
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19835
+На кобыле прискакал:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19836
+«Вот вам телеграмма
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19837
+От Гиппопотама!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19838
+«Приезжайте, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19839
+В Африку скорей
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19840
+И спасите, доктор,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19841
+Наших малышей!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19842
+«Что такое? Неужели
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19843
+Ваши дети заболели?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19844
+«Да-да-да! У них ангина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19845
+Скарлатина, холерина,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19846
+Дифтерит, аппендицит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19847
+Малярия и бронхит!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19848
+Приходите же скорее,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19849
+Добрый доктор Айболит!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19850
+«Ладно, ладно, побегу,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19851
+Вашим детям помогу.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19852
+Только где же вы живёте?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19853
+На горе или в болоте?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19854
+«Мы живём на Занзибаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19855
+В Калахари и Сахаре,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19856
+На горе Фернандо-По,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19857
+Где гуляет Гиппо-по
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19858
+По широкой Лимпопо».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19859
+И встал Айболит, побежал Айболит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19860
+По полям, по лесам, по лугам он бежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19861
+И одно только слово твердит Айболит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19862
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19863
+А в лицо ему ветер, и снег, и град:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19864
+«Эй, Айболит, воротися назад!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19865
+И упал Айболит и лежит на снегу:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19866
+«Я дальше идти не могу».
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19867
+И сейчас же к нему из-за ёлки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19868
+Выбегают мохнатые волки:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19869
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19870
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19871
+И вперёд поскакал Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19872
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19873
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19874
+Но вот перед ними море —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19875
+Бушует, шумит на просторе.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19876
+А в море высокая ходит волна.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19877
+Сейчас Айболита проглотит она.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19878
+«О, если я утону,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19879
+Если пойду я ко дну,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19880
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19881
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19882
+Но тут выплывает кит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19883
+«Садись на меня, Айболит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19884
+И, как большой пароход,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19885
+Тебя повезу я вперёд!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19886
+И сел на кита Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19887
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19888
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19889
+И горы встают перед ним на пути,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19890
+И он по горам начинает ползти,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19891
+А горы всё выше, а горы всё круче,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19892
+А горы уходят под самые тучи!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19893
+«О, если я не дойду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19894
+Если в пути пропаду,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19895
+Что станется с ними, с больными,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19896
+С моими зверями лесными?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19897
+И сейчас же с высокой скалы
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19898
+К Айболиту слетели орлы:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19899
+«Садись, Айболит, верхом,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19900
+Мы живо тебя довезём!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19901
+И сел на орла Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19902
+И одно только слово твердит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19903
+«Лимпопо, Лимпопо, Лимпопо!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19904
+А в Африке,
+А в Африке,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19905
+На чёрной
+Лимпопо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19906
+Сидит и плачет
+В Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19907
+Печальный Гиппопо.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19908
+Он в Африке, он в Африке
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19909
+Под пальмою сидит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19910
+И на море из Африки
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19911
+Без отдыха глядит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19912
+Не едет ли в кораблике
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19913
+Доктор Айболит?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19914
+И рыщут по дороге
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19915
+Слоны и носороги
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19916
+И говорят сердито:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19917
+«Что ж нету Айболита?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19918
+А рядом бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19919
+Схватились за животики:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19920
+У них, у бегемотиков,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19921
+Животики болят.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19922
+И тут же страусята
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19923
+Визжат, как поросята.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19924
+Ах, жалко, жалко, жалко
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19925
+Бедных страусят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19926
+И корь, и дифтерит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19927
+И оспа, и бронхит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19928
+И голова болит у них,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19929
+И горлышко болит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19930
+Они лежат и бредят:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19931
+«Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19932
+Ну что же он не едет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19933
+Доктор Айболит?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19934
+А рядом прикорнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19935
+Зубастая акула,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19936
+Зубастая акула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19937
+На солнышке лежит.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19938
+Ах, у её малюток,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19939
+У бедных акулят,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19940
+Уже двенадцать суток
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19941
+Зубки болят!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19942
+И вывихнуто плечико
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19943
+У бедного кузнечика;
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19944
+Не прыгает, не скачет он,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19945
+А горько-горько плачет он
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19946
+И доктора зовёт:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19947
+«О, где же добрый доктор?
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19948
+Когда же он придёт?»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19949
+Но вот, поглядите, какая-то птица
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19950
+Всё ближе и ближе по воздуху мчится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19951
+На птице, глядите, сидит Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19952
+И шляпою машет и громко кричит:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19953
+«Да здравствует милая Африка!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19954
+И рада и счастлива вся детвора:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19955
+«Приехал, приехал! Ура! Ура!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19956
+А птица над ними кружится,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19957
+А птица на землю садится.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19958
+И бежит Айболит к бегемотикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19959
+И хлопает их по животикам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19960
+И всем по порядку
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19961
+Даёт шоколадку,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19962
+И ставит и ставит им градусники!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19963
+И к полосатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19964
+Бежит он к тигрятам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19965
+И к бедным горбатым
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19966
+Больным верблюжатам,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19967
+И каждого гоголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19968
+Каждого моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19969
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19970
+Гоголем-моголем,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19971
+Гоголем-моголем потчует.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19972
+Десять ночей Айболит
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19973
+Не ест, не пьёт и не спит,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19974
+Десять ночей подряд
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19975
+Он лечит несчастных зверят
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19976
+И ставит и ставит им градусники.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19977
+Вот и вылечил он их, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19978
+Вот и вылечил больных, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19979
+И пошли они смеяться,
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19980
+И плясать и баловаться, 
+Лимпопо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19981
+И акула Каракула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19982
+Правым глазом подмигнула
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19983
+И хохочет, и хохочет,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19984
+Будто кто её щекочет.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19985
+А малютки бегемотики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19986
+Ухватились за животики
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19987
+И смеются, заливаются —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19988
+Так что дубы сотрясаются.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19989
+Вот и Гиппо, вот и Попо,
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19990
+Гиппо-попо, Гиппо-попо!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19991
+Вот идёт Гиппопотам.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19992
+Он идёт от Занзибара.
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19993
+Он идёт к Килиманджаро —
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19994
+И кричит он, и поёт он:
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19995
+«Слава, слава Айболиту!
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19996
+Слава добрым докторам!»
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19997
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19998
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 19999
+
+--- PAGE END ---
+
+--- PAGE START ---
+#TITLE: 20000
 
 --- PAGE END ---
 
