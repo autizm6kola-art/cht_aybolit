@@ -8,6 +8,7 @@ import { clearAllAnswers, getUserInputs } from '../utils/storage';
 import BackButton from './BackButton';
 import ProgressBar from './ProgressBar';
 import '../styles/menuPage.css';
+import BackupControls from './BackupControls';
 
 function MenuPage({ allTasks, onSelectRange }) {
   const [correctWordsCount, setCorrectWordsCount] = useState(0);
@@ -117,6 +118,7 @@ function MenuPage({ allTasks, onSelectRange }) {
           Сбросить все ответы
         </button>
       </div>
+      <div className="reset-button-contaner"><BackupControls /></div>
     </div>
   );
 }
