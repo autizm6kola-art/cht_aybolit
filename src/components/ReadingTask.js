@@ -8,6 +8,9 @@ import { saveCorrectInput, getUserInputs, saveUserInputs } from "../utils/storag
 import { createSpeechRecognizer } from "../utils/bookUtils";
 import { addTodayWords } from "../utils/dailyStats";
 
+const APP_ID = "chtenie_aybolit"; // 👈 уникальное имя книги
+
+
 
 function normalizeToArray(text) {
   return text
@@ -65,7 +68,8 @@ const trulyNew = newMatchedIndexes.filter(
 );
 
 // 👉 увеличиваем счётчик сегодняшнего дня
-addTodayWords(trulyNew.length);
+addTodayWords(APP_ID, trulyNew.length);
+
 
 // Сохраняем обновлённые индексы
 setHighlightedIndexes(newMatchedIndexes);
