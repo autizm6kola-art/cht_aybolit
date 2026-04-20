@@ -11,6 +11,7 @@ import {
   getUserInputs
 } from '../utils/storage';
 import '../styles/tasksPage.css';
+import DailyProgress from "./DailyProgress";
 
 function TasksPage({ tasks, goBack, rangeLabel }) {
   const [correctWordCount, setCorrectWordCount] = useState(0);
@@ -90,6 +91,7 @@ function TasksPage({ tasks, goBack, rangeLabel }) {
             Прочитано слов: {correctWordCount} из {totalWordCount}.
             ({percentRead}%)
           </strong>
+          <DailyProgress />
         </p>
 
         <div className="percent-bar">
